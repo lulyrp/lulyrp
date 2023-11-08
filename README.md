@@ -11,6 +11,15 @@ nuevos conocimientos y reforzar lo aprendido, poder encontrar nuevas oportunidad
 -----------------------------------------------------------------------------------------------------------------------------
 ## Lenguajes
 
+![javaaa](https://github.com/lulyrp/lulyrp/assets/112672568/516b52de-5761-4633-a293-3d5993d5dd9e)
+![js (2)](https://github.com/lulyrp/lulyrp/assets/112672568/f4261ce4-8417-4652-b24a-3721c0159350)
+![py](https://github.com/lulyrp/lulyrp/assets/112672568/0742b705-6d3f-4c71-9304-380af9038874)
+
+
+
+
+
+
 
 
 
