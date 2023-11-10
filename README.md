@@ -9,7 +9,7 @@ Actualmente me encuentro en la búsqueda de mi primer experiencia laboral en el 
 nuevos conocimientos y reforzar lo aprendido, poder encontrar nuevas oportunidades que me permitan crecer como profesional.
 
 -----------------------------------------------------------------------------------------------------------------------------
-## Lenguajes
+## Lenguajes que estudio
 
 
 ![py1](https://github.com/lulyrp/lulyrp/assets/112672568/1d778d09-7acf-46ca-b54f-ade8792f27db)
@@ -18,6 +18,10 @@ nuevos conocimientos y reforzar lo aprendido, poder encontrar nuevas oportunidad
 
 
 
+### Otras herramientas
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 
